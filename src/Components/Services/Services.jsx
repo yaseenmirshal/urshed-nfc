@@ -5,34 +5,29 @@ import Title from "../Shared/Title/Title";
 const serviceList = [
   {
     id: "01",
-    heading: "Illustration Design",
-    subHeading: "Designer",
+    heading: "COMPANY POLICY",
+    subHeading: "Branding",
     para: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. sunt in culpa qui officia deserunt mollit",
   },
   {
     id: "02",
-    heading: "Business Branding",
+    heading: "GOLD PROCUREMENT",
     subHeading: "Branding",
     para: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. sunt in culpa qui officia deserunt mollit",
   },
   {
     id: "03",
-    heading: "Web UI/UX Design",
+    heading: "COMPLIANCE MANAGEMENT",
     subHeading: "UI/UX Design",
     para: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. sunt in culpa qui officia deserunt mollit",
   },
   {
     id: "04",
-    heading: "Application Design",
+    heading: "EXPORT & TRADING",
     subHeading: " Web Design",
     para: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. sunt in culpa qui officia deserunt mollit",
   },
-  {
-    id: "05",
-    heading: " Digital Marketing",
-    subHeading: "SEO Analytics",
-    para: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. sunt in culpa qui officia deserunt mollit",
-  },
+  
 ];
 const Services = ({ isHeading }) => {
   return (

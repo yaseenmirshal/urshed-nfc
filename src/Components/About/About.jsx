@@ -56,9 +56,9 @@ const About = () => {
               data-aos-duration="1000"
             />
             <p className="descrp" data-aos="fade-up" data-aos-duration="1500">
-              I'm David Matias, I'm a Brand & Webflow Designer, Currently
-              residing in the lush Victoria Street London, Matias operates
-              globally and is ready to take on any design challenge.
+              I'm Muhammed Murshed, Managing Director of Reagalsky Gold Jewellery, Currently
+              residing in the Dubai, Regalsky operates
+              globally and is ready to take on Gold Srvices.
             </p>
           </div>
           <div className="singletab">

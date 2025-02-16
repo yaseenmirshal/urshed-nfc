@@ -69,7 +69,7 @@ const Banner = () => {
               </Link>
               <h1>
                 <span className="hone">Muhammed Murshed</span>
-                <span className="d-block designers" data-text="Designer">
+                <span className="d-block designers" data-text="Director">
                   Director
                 </span>
               </h1>
@@ -101,7 +101,7 @@ const Banner = () => {
           <Link to={""}>
             <img src={dial} alt="img" />
           </Link>
-          <Link to={""}>(+02)-574-328-301</Link>
+          <Link to={""}>(+971)501499838</Link>
         </div>
         <div className="right__infoscroll">
           <Link className="scroll">

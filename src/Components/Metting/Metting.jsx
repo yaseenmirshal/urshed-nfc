@@ -34,7 +34,7 @@ const Metting = () => {
                 </span>
                 <span className="box">
                   <span className="ptext fz-18 mb-1 d-block"> Email </span>
-                  <a href="#0"> davidmatias333@gmail.com </a>
+                  <a href="#0"> info@regalskygold.com</a>
                 </span>
               </div>
               <div
@@ -47,7 +47,7 @@ const Metting = () => {
                 </span>
                 <span className="box">
                   <span className="ptext fz-18 mb-1 d-block"> Location </span>
-                  <a href="#0"> Victoria Street London, England </a>
+                  <a href="#0"> Al Dhagaya, Gold Souq, Deira, Dubai, UAE </a>
                 </span>
               </div>
             </div>
