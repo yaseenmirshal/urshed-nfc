@@ -17,17 +17,17 @@ const contactInfo = [
   {
     id: 1,
     system: "Email",
-    contact: "Matias999@Gmail.Com",
+    contact: "morshed@regalskygold.com",
   },
   {
     id: 2,
     system: "Phone",
-    contact: "+(2) 871 382 023",
+    contact: "+(971) 50 2484 949",
   },
   {
     id: 3,
     system: "Phone",
-    contact: "Victoria Street London,",
+    contact: "Al Dhagaya, Gold Souq, Deira, Dubai, UAE",
   },
   {
     id: 4,
